@@ -1,6 +1,6 @@
 baseURL = "https://kidult-joy.gitHub.io/"
 languageCode = "zh_CN"
-title = "唐震怡的blog"
+title = "Kidult-Joy in Wonderland"
 theme = "casper"
 paginate = 5 #分页每页记录数
 DisqusShortname = "唐震怡" #评论时显示的名字
@@ -8,7 +8,7 @@ Copyright = "All rights reserved - 2020" #版权
 canonifyurls = true
 
 [params]
-  description = "To Be Better"
+  description = "Be Free"
   cover = "images/cover.jpg" #自己找的博客封面，要够大够酷
   author = "唐震怡" #文章作者
   authorlocation = "Beijing, China" #作者位置
@@ -21,13 +21,14 @@ canonifyurls = true
   githubName = "kidult-joy" #github用户名
   email = ""
   twitterName = "tangzhenyi2020"
-  # facebookName = ""
+  facebookName = "Zhenyi Tang"
   # linkedinName = "" #LinkedIn用户名
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false #是否显示Hugo水印
   hjsStyle = "atom-one-light"
   [params.social]
     twitter = "https://twitter.com/tangzhenyi2020"
+    facebook = "https://www.facebook.com/profile.php?id=100053736244198"
 
 [[menu.main]] #页面菜单参数
   name = "Home"

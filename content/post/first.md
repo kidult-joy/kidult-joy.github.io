@@ -55,4 +55,6 @@ keywords : [
 
 - ★★★ Python
 - ★★★ MySQL
+- ★★★ PHP
+- ★★☆ CSS
 - ★★☆ JavaScript
