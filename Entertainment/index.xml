@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entertainments on Kidult-Joy in Wonderland</title>
+    <link>https://kidult-joy.gitHub.io/entertainment/</link>
+    <description>Recent content in Entertainments on Kidult-Joy in Wonderland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kidult-joy.gitHub.io/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>“流浪大街”的街头艺术</title>
+      <link>https://kidult-joy.gitHub.io/entertainment/barcelona/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kidult-joy.gitHub.io/entertainment/barcelona/</guid>
+      <description>&lt;p&gt;享受色彩、曲线与光影交织而成的盛宴&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
