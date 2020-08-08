@@ -30,6 +30,7 @@ canonifyurls = true
     twitter = "https://twitter.com/tangzhenyi2020"
     facebook = "https://www.facebook.com/profile.php?id=100053736244198"
 
+
 [[menu.main]] #页面菜单参数
   name = "Home"
   weight = -1
@@ -51,3 +52,7 @@ canonifyurls = true
 
 [permalinks]
   post = "/:year/:month/:day/:title/"
+
+ # Fireworks
+fireworks = true
+

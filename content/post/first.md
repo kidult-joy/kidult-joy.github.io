@@ -1,5 +1,5 @@
 ---
-title: "来认识我吧"                         
+title: "The First Post"                         
 author: "唐震怡"  
 description : "Who am I"    
 date: 2020-07-17 
@@ -15,7 +15,7 @@ keywords : [
 "Free",
 ]
 ---
-健康可爱，没有眼袋
+JUST TRYING
 <!--more-->
  <center>
      <h1>唐震怡</h1>
@@ -37,13 +37,13 @@ keywords : [
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## 个人信息 
 
  - 女，2000 年出生
  - 北京大学，信息管理系
 
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 兴趣爱好
+## 兴趣爱好
 
 - 游泳
 - 钢琴
@@ -51,10 +51,8 @@ keywords : [
 - 旅游
 
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## 技能清单
 
 - ★★★ Python
 - ★★★ MySQL
-- ★★★ PHP
-- ★★☆ CSS
 - ★★☆ JavaScript
