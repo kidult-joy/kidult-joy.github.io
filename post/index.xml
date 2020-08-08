@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kidult-Joy in Wonderland</title>
+    <link>https://kidult-joy.gitHub.io/post/</link>
+    <description>Recent content in Posts on Kidult-Joy in Wonderland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kidult-joy.gitHub.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Useful Links</title>
+      <link>https://kidult-joy.gitHub.io/2020/07/30/some-useful-links/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kidult-joy.gitHub.io/2020/07/30/some-useful-links/</guid>
+      <description>&lt;p&gt;哎呦不错哦！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook 快捷键</title>
+      <link>https://kidult-joy.gitHub.io/2020/07/28/jupyter-notebook-%E5%BF%AB%E6%8D%B7%E9%94%AE/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kidult-joy.gitHub.io/2020/07/28/jupyter-notebook-%E5%BF%AB%E6%8D%B7%E9%94%AE/</guid>
+      <description>&lt;p&gt;写下就是记下！（doge）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The First Post</title>
+      <link>https://kidult-joy.gitHub.io/2020/07/17/the-first-post/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kidult-joy.gitHub.io/2020/07/17/the-first-post/</guid>
+      <description>&lt;p&gt;JUST TRYING&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
